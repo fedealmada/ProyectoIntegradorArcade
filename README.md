@@ -1,6 +1,8 @@
 # Arcade Games
 
-Trabajo Práctico Integrador
+Trabajo Práctico Integrador (Grupo 4) - SMATA 8  
+Módulo: Programación Orientada a Objetos - 1C TM 2024
+Profesor: Jorge Sanchez
 
 Integrantes: 
 - Almada, Federico
